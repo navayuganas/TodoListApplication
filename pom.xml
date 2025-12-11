@@ -52,7 +52,6 @@
                     <mainClass>main.java.com.todo.Main</mainClass>
                 </configuration>
             </plugin>
-            
             <!-- Maven Shade Plugin for creating executable JAR -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
