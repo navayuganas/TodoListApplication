@@ -1,6 +1,10 @@
-main\java\com\todo\gui\TodoGUI.class
 main\java\com\todo\model\Todo.class
 main\java\com\todo\utils\DatabaseConnection.class
+com\todo\dao\TodoAppDAO.class
+com\todo\gui\TodoAppGUI$1.class
+com\todo\gui\TodoAppGUI.class
+main\java\com\todo\gui\TodoGUI.class
+com\todo\utils\Main.class
 main\java\com\todo\gui\TodoGUI$1.class
 main\java\com\todo\dao\TodoDAO.class
 main\java\com\todo\Main.class
